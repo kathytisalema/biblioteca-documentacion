@@ -1,28 +1,13 @@
 markdown
-# 📚 Sistema de Gestión Bibliotecaria
+# 🛠️ Guía de Instalación (Solo Documentación)
 
-## Descripción
-Sistema para gestionar préstamos de libros en una biblioteca pública.
+## ℹ️ Nota Importante
+Este repositorio contiene **solo documentación técnica**. No es una aplicación ejecutable.
 
-## Características
-- ✅ Catálogo de libros
-- ✅ Gestión de usuarios
-- ✅ Control de préstamos y devoluciones
-- ✅ Cálculo de multas por retraso
+## Requisitos para editar la documentación
+- Windows 11
+- Visual Studio Code
+- Git
+- Navegador web (para Draw.io y Swagger Editor)
 
-## Arquitectura
-### Diagrama de Clases
-![Diagrama de Clases](docs/diagramas/diagrama-clases.png)
-
-## API Documentation
-📖 [Especificación Swagger (OpenAPI)](docs/api/swagger.yaml)
-
-## Guías
-📘 [Guía de Instalación](docs/manual/INSTALACION.md)
-
-## Equipo
-- Desarrollado por: [Tu Nombre]
-- Fecha: 2026
-
-## Licencia
-MIT
+## Pasos para trabajar con esta documentación
